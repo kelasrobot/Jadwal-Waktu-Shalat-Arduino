@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map For JadwalWaktuShalat
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+JadwalWaktuShalat	KEYWORD1
+waktuShalatDimulai	KEYWORD1
+dapatkanWaktuShalat	KEYWORD1
+jadwalShalat KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+namaWaktu	KEYWORD2
+satuanWaktu	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+tahunSekarang	LITERAL1
+bulanSekarang	LITERAL1
+tanggalSekarang	LITERAL1
+latitudeSetempat	LITERAL1
+longitudeSetempat	LITERAL1
+timezoneSetempat	LITERAL1
+IMSAK    LITERAL1
+SUBUH    LITERAL1
+SYURUQ   LITERAL1
+DZUHUR   LITERAL1
+ASHAR    LITERAL1
+TERBENAM LITERAL1
+MAGHRIB  LITERAL1
+ISYA     LITERAL1
+JAM     LITERAL1
+MENIT    LITERAL1
